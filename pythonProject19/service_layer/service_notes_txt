@@ -1,0 +1,5 @@
+Since my DAL is going to handle the basic CRUD operations, since it is my DAL that specificaly interacts with database, I will use my service layer to handle my user storyies.
+ For this example project, I will be usind the following user stories:
+As a user I want to add an account to the database I can always see its information
+As a user I want to be able to see account information.
+As a user I want to be able to update account information so that I can correct it when need be.

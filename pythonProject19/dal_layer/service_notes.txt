@@ -1,0 +1,5 @@
+The following are my user stories,
+As a user, I want to be able to add a database so I can always see its information.
+As a user, I want to be able to see the customer information so I can be reminded of it.
+As a user, I want to be able to update my customer information so I can correct it when need be.
+As a user, I want to be able to remove the customer information so I can adjust database if the customer closes an account.
